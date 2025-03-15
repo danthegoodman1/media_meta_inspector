@@ -1,4 +1,4 @@
-# MP3 Inspector
+# Media Meta Inspector
 
 A command-line tool for extracting audio metadata from remote audio files.
 
